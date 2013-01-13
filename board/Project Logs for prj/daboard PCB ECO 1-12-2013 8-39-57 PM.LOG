@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=power Member=C19
+Removed Member From Class: ClassName=power Member=C20
+Removed Member From Class: ClassName=power Member=C21
+Removed Member From Class: ClassName=power Member=C22
+Added Member To Class: ClassName=mcu Member=Component C19 0.1uF
+Added Member To Class: ClassName=mcu Member=Component C20 0.1uF
+Added Member To Class: ClassName=mcu Member=Component C21 0.1uF
+Added Member To Class: ClassName=mcu Member=Component C22 0.1uF
