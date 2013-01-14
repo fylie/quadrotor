@@ -1,0 +1,148 @@
+Change Component Designator: OldDesignator=C2A NewDesignator=C2B
+Change Component Designator: OldDesignator=C2B NewDesignator=C2A
+Change Component Designator: OldDesignator=C3A NewDesignator=C3B
+Change Component Designator: OldDesignator=C3B NewDesignator=C3A
+Change Component Designator: OldDesignator=C4A NewDesignator=C4B
+Change Component Designator: OldDesignator=C4B NewDesignator=C4A
+Change Component Designator: OldDesignator=C5A NewDesignator=C5B
+Change Component Designator: OldDesignator=C5B NewDesignator=C5A
+Change Component Designator: OldDesignator=C6A NewDesignator=C6B
+Change Component Designator: OldDesignator=C6B NewDesignator=C6A
+Change Component Designator: OldDesignator=C7A NewDesignator=C7B
+Change Component Designator: OldDesignator=C7B NewDesignator=C7A
+Change Component Designator: OldDesignator=C11A NewDesignator=C11B
+Change Component Designator: OldDesignator=C11B NewDesignator=C11A
+Change Component Designator: OldDesignator=C12A NewDesignator=C12B
+Change Component Designator: OldDesignator=C12B NewDesignator=C12A
+Change Component Designator: OldDesignator=D3A NewDesignator=D3B
+Change Component Designator: OldDesignator=D3B NewDesignator=D3A
+Change Component Designator: OldDesignator=D4A NewDesignator=D4B
+Change Component Designator: OldDesignator=D4B NewDesignator=D4A
+Change Component Designator: OldDesignator=DET1A NewDesignator=DET1B
+Change Component Designator: OldDesignator=DET1B NewDesignator=DET1A
+Change Component Designator: OldDesignator=DET2A NewDesignator=DET2B
+Change Component Designator: OldDesignator=DET2B NewDesignator=DET2A
+Change Component Designator: OldDesignator=R11A NewDesignator=R11B
+Change Component Designator: OldDesignator=R11B NewDesignator=R11A
+Change Component Designator: OldDesignator=R14A NewDesignator=R14B
+Change Component Designator: OldDesignator=R14B NewDesignator=R14A
+Change Component Designator: OldDesignator=R15A NewDesignator=R15B
+Change Component Designator: OldDesignator=R15B NewDesignator=R15A
+Change Component Designator: OldDesignator=R16A NewDesignator=R16B
+Change Component Designator: OldDesignator=R16B NewDesignator=R16A
+Change Component Designator: OldDesignator=R17A NewDesignator=R17B
+Change Component Designator: OldDesignator=R17B NewDesignator=R17A
+Change Component Designator: OldDesignator=R18A NewDesignator=R18B
+Change Component Designator: OldDesignator=R18B NewDesignator=R18A
+Change Component Designator: OldDesignator=R19A NewDesignator=R19B
+Change Component Designator: OldDesignator=R19B NewDesignator=R19A
+Change Component Designator: OldDesignator=R20A NewDesignator=R20B
+Change Component Designator: OldDesignator=R20B NewDesignator=R20A
+Change Component Designator: OldDesignator=R21A NewDesignator=R21B
+Change Component Designator: OldDesignator=R21B NewDesignator=R21A
+Change Component Designator: OldDesignator=R22A NewDesignator=R22B
+Change Component Designator: OldDesignator=R22B NewDesignator=R22A
+Change Component Designator: OldDesignator=R23A NewDesignator=R23B
+Change Component Designator: OldDesignator=R23B NewDesignator=R23A
+Change Component Designator: OldDesignator=R24A NewDesignator=R24B
+Change Component Designator: OldDesignator=R24B NewDesignator=R24A
+Change Component Designator: OldDesignator=R25A NewDesignator=R25B
+Change Component Designator: OldDesignator=R25B NewDesignator=R25A
+Change Component Designator: OldDesignator=R26A NewDesignator=R26B
+Change Component Designator: OldDesignator=R26B NewDesignator=R26A
+Change Component Designator: OldDesignator=R27A NewDesignator=R27B
+Change Component Designator: OldDesignator=R27B NewDesignator=R27A
+Change Component Designator: OldDesignator=R28A NewDesignator=R28B
+Change Component Designator: OldDesignator=R28B NewDesignator=R28A
+Change Component Designator: OldDesignator=R29A NewDesignator=R29B
+Change Component Designator: OldDesignator=R29B NewDesignator=R29A
+Change Component Designator: OldDesignator=R30A NewDesignator=R30B
+Change Component Designator: OldDesignator=R30B NewDesignator=R30A
+Change Component Designator: OldDesignator=T1A NewDesignator=T1B
+Change Component Designator: OldDesignator=T1B NewDesignator=T1A
+Change Component Designator: OldDesignator=T2A NewDesignator=T2B
+Change Component Designator: OldDesignator=T2B NewDesignator=T2A
+Change Component Designator: OldDesignator=T3A NewDesignator=T3B
+Change Component Designator: OldDesignator=T3B NewDesignator=T3A
+Change Component Designator: OldDesignator=U3A NewDesignator=U3B
+Change Component Designator: OldDesignator=U3B NewDesignator=U3A
+Change Component Designator: OldDesignator=U4A NewDesignator=U4B
+Change Component Designator: OldDesignator=U4B NewDesignator=U4A
+Change Component Designator: OldDesignator=U5A NewDesignator=U5B
+Change Component Designator: OldDesignator=U5B NewDesignator=U5A
+Change Component Designator: OldDesignator=U6A NewDesignator=U6B
+Change Component Designator: OldDesignator=U6B NewDesignator=U6A
+Change Component Designator: OldDesignator=U7A NewDesignator=U7B
+Change Component Designator: OldDesignator=U7B NewDesignator=U7A
+Change Net Name : Old Net Name=DET1A New Net Name=DET1B
+Change Net Name : Old Net Name=DET1B New Net Name=DET1A
+Change Net Name : Old Net Name=DET2A New Net Name=DET2B
+Change Net Name : Old Net Name=DET2B New Net Name=DET2A
+Change Net Name : Old Net Name=M1A New Net Name=M1B
+Change Net Name : Old Net Name=M1B New Net Name=M1A
+Change Net Name : Old Net Name=M2A New Net Name=M2B
+Change Net Name : Old Net Name=M2B New Net Name=M2A
+Change Net Name : Old Net Name=M3A New Net Name=M3B
+Change Net Name : Old Net Name=M3B New Net Name=M3A
+Change Net Name : Old Net Name=MOTOR_CURRENTA New Net Name=MOTOR_CURRENTB
+Change Net Name : Old Net Name=MOTOR_CURRENTB New Net Name=MOTOR_CURRENTA
+Change Net Name : Old Net Name=NetC2A_2 New Net Name=NetC2B_2
+Change Net Name : Old Net Name=NetC2B_2 New Net Name=NetC2A_2
+Change Net Name : Old Net Name=NetC11A_2 New Net Name=NetC11B_2
+Change Net Name : Old Net Name=NetC11B_2 New Net Name=NetC11A_2
+Change Net Name : Old Net Name=NetD3A_2 New Net Name=NetD3B_2
+Change Net Name : Old Net Name=NetD3B_2 New Net Name=NetD3A_2
+Change Net Name : Old Net Name=NetD4A_2 New Net Name=NetD4B_2
+Change Net Name : Old Net Name=NetD4B_2 New Net Name=NetD4A_2
+Change Net Name : Old Net Name=NetR11A_2 New Net Name=NetR11B_2
+Change Net Name : Old Net Name=NetR11B_2 New Net Name=NetR11A_2
+Change Net Name : Old Net Name=NetR14A_2 New Net Name=NetR14B_2
+Change Net Name : Old Net Name=NetR14B_2 New Net Name=NetR14A_2
+Change Net Name : Old Net Name=NetR15A_2 New Net Name=NetR15B_2
+Change Net Name : Old Net Name=NetR15B_2 New Net Name=NetR15A_2
+Change Net Name : Old Net Name=NetR16A_1 New Net Name=NetR16B_1
+Change Net Name : Old Net Name=NetR16A_2 New Net Name=NetR16B_2
+Change Net Name : Old Net Name=NetR16B_1 New Net Name=NetR16A_1
+Change Net Name : Old Net Name=NetR16B_2 New Net Name=NetR16A_2
+Change Net Name : Old Net Name=NetR19A_1 New Net Name=NetR19B_1
+Change Net Name : Old Net Name=NetR19A_2 New Net Name=NetR19B_2
+Change Net Name : Old Net Name=NetR19B_1 New Net Name=NetR19A_1
+Change Net Name : Old Net Name=NetR19B_2 New Net Name=NetR19A_2
+Change Net Name : Old Net Name=NetR22A_1 New Net Name=NetR22B_1
+Change Net Name : Old Net Name=NetR22A_2 New Net Name=NetR22B_2
+Change Net Name : Old Net Name=NetR22B_1 New Net Name=NetR22A_1
+Change Net Name : Old Net Name=NetR22B_2 New Net Name=NetR22A_2
+Change Net Name : Old Net Name=NetR25A_2 New Net Name=NetR25B_2
+Change Net Name : Old Net Name=NetR25B_2 New Net Name=NetR25A_2
+Change Net Name : Old Net Name=NetR27A_2 New Net Name=NetR27B_2
+Change Net Name : Old Net Name=NetR27B_2 New Net Name=NetR27A_2
+Change Net Name : Old Net Name=NetR28A_2 New Net Name=NetR28B_2
+Change Net Name : Old Net Name=NetR28B_2 New Net Name=NetR28A_2
+Change Net Name : Old Net Name=NetR29A_2 New Net Name=NetR29B_2
+Change Net Name : Old Net Name=NetR29B_2 New Net Name=NetR29A_2
+Change Net Name : Old Net Name=NetT1A_2 New Net Name=NetT1B_2
+Change Net Name : Old Net Name=NetT1A_4 New Net Name=NetT1B_4
+Change Net Name : Old Net Name=NetT1B_2 New Net Name=NetT1A_2
+Change Net Name : Old Net Name=NetT1B_4 New Net Name=NetT1A_4
+Change Net Name : Old Net Name=NetT2A_2 New Net Name=NetT2B_2
+Change Net Name : Old Net Name=NetT2A_4 New Net Name=NetT2B_4
+Change Net Name : Old Net Name=NetT2B_2 New Net Name=NetT2A_2
+Change Net Name : Old Net Name=NetT2B_4 New Net Name=NetT2A_4
+Change Net Name : Old Net Name=NetT3A_2 New Net Name=NetT3B_2
+Change Net Name : Old Net Name=NetT3A_4 New Net Name=NetT3B_4
+Change Net Name : Old Net Name=NetT3B_2 New Net Name=NetT3A_2
+Change Net Name : Old Net Name=NetT3B_4 New Net Name=NetT3A_4
+Change Net Name : Old Net Name=NetU3A_21 New Net Name=NetU3B_21
+Change Net Name : Old Net Name=NetU3A_22 New Net Name=NetU3B_22
+Change Net Name : Old Net Name=NetU3A_23 New Net Name=NetU3B_23
+Change Net Name : Old Net Name=NetU3A_24 New Net Name=NetU3B_24
+Change Net Name : Old Net Name=NetU3A_25 New Net Name=NetU3B_25
+Change Net Name : Old Net Name=NetU3A_26 New Net Name=NetU3B_26
+Change Net Name : Old Net Name=NetU3B_21 New Net Name=NetU3A_21
+Change Net Name : Old Net Name=NetU3B_22 New Net Name=NetU3A_22
+Change Net Name : Old Net Name=NetU3B_23 New Net Name=NetU3A_23
+Change Net Name : Old Net Name=NetU3B_24 New Net Name=NetU3A_24
+Change Net Name : Old Net Name=NetU3B_25 New Net Name=NetU3A_25
+Change Net Name : Old Net Name=NetU3B_26 New Net Name=NetU3A_26
+Change Class Name : Old Net Name=M New Net Name=M2
+Added Room: Name=M2

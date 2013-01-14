@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=V3.3 Pin=C23-2
+Removed Pin From Net: NetName=V3.3 Pin=C25-1
+Removed Pin From Net: NetName=V3.3 Pin=U11-8
+Removed Pin From Net: NetName=V3.3 Pin=U11-13
+Added Pin To Net: NetName=V3.3MCU Pin=C23-2
+Added Pin To Net: NetName=V3.3MCU Pin=C25-1
+Added Pin To Net: NetName=V3.3MCU Pin=U11-8
+Added Pin To Net: NetName=V3.3MCU Pin=U11-13

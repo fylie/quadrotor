@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR31_2 Pin=U2-62
+Removed Member From Class: ClassName=power Member=C13
+Removed Member From Class: ClassName=power Member=C18
+Removed Member From Class: ClassName=power Member=R31
+Removed Member From Class: ClassName=power Member=U10
+Added Pin To Net: NetName=NetU2_62 Pin=U2-62
+Added Net: Name=NetU2_62
+Added Member To Class: ClassName=mcu Member=Component C13 1uF
+Added Member To Class: ClassName=mcu Member=Component C18 1uF
+Added Member To Class: ClassName=mcu Member=Component R31 10k
+Added Member To Class: ClassName=mcu Member=Component U10 LP38692MP-5.0/NOPB

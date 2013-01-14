@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=power Member=C15
+Removed Member From Class: ClassName=power Member=C17
+Removed Member From Class: ClassName=power Member=U9
+Added Member To Class: ClassName=mcu Member=Component C15 1uF
+Added Member To Class: ClassName=mcu Member=Component C17 1uF
+Added Member To Class: ClassName=mcu Member=Component U9 LP38692MP-3.3/NOPB

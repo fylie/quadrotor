@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=mcu Member=C13
+Removed Member From Class: ClassName=mcu Member=C18
+Removed Member From Class: ClassName=mcu Member=R31
+Removed Member From Class: ClassName=mcu Member=U10
+Change Net Name : Old Net Name=USB1_EN New Net Name=NetR31_2
+Added Member To Class: ClassName=power Member=Component C13 1uF
+Added Member To Class: ClassName=power Member=Component C18 1uF
+Added Member To Class: ClassName=power Member=Component R31 10k
+Added Member To Class: ClassName=power Member=Component U10 LP38692MP-5.0/NOPB
