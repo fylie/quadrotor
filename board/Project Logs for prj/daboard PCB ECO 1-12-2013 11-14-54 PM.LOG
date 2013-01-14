@@ -1,0 +1,27 @@
+Added Component: Designator=U3(SSOP-SS28_N)
+Added Pin To Net: NetName=NetR11_2 Pin=U3-1
+Added Pin To Net: NetName=NetR15_2 Pin=U3-2
+Added Pin To Net: NetName=NetR14_2 Pin=U3-3
+Added Pin To Net: NetName=MOTOR_CURRENT Pin=U3-4
+Added Pin To Net: NetName=NetR16_1 Pin=U3-5
+Added Pin To Net: NetName=NetR19_1 Pin=U3-6
+Added Pin To Net: NetName=NetR22_1 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=NetU3_11 Pin=U3-11
+Added Pin To Net: NetName=NetU3_12 Pin=U3-12
+Added Pin To Net: NetName=V3.3 Pin=U3-13
+Added Pin To Net: NetName=DET1 Pin=U3-15
+Added Pin To Net: NetName=DET2 Pin=U3-16
+Added Pin To Net: NetName=NetU3_17 Pin=U3-17
+Added Pin To Net: NetName=NetU3_18 Pin=U3-18
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=NetC2_2 Pin=U3-20
+Added Pin To Net: NetName=NetU3_21 Pin=U3-21
+Added Pin To Net: NetName=NetU3_22 Pin=U3-22
+Added Pin To Net: NetName=NetU3_23 Pin=U3-23
+Added Pin To Net: NetName=NetU3_24 Pin=U3-24
+Added Pin To Net: NetName=NetU3_25 Pin=U3-25
+Added Pin To Net: NetName=NetU3_26 Pin=U3-26
+Added Pin To Net: NetName=GND Pin=U3-27
+Added Pin To Net: NetName=V3.3 Pin=U3-28
+Added Member To Class: ClassName=M Member=Component U3 DSPIC33FJ12MC202-E/SS

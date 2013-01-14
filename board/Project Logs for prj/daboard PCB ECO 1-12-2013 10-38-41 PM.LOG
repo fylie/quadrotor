@@ -1,0 +1,304 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C2_M2
+Change Component Designator: OldDesignator=C3 NewDesignator=C3_M2
+Change Component Designator: OldDesignator=C4 NewDesignator=C4_M2
+Change Component Designator: OldDesignator=C5 NewDesignator=C5_M2
+Change Component Designator: OldDesignator=C6 NewDesignator=C6_M2
+Change Component Designator: OldDesignator=C7 NewDesignator=C7_M2
+Change Component Designator: OldDesignator=C8 NewDesignator=C8_M2
+Change Component Designator: OldDesignator=C9 NewDesignator=C9_M2
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_M2
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_M2
+Change Component Designator: OldDesignator=C12 NewDesignator=C12_M2
+Change Component Designator: OldDesignator=D3 NewDesignator=D3_M2
+Change Component Designator: OldDesignator=D4 NewDesignator=D4_M2
+Change Component Designator: OldDesignator=P1 NewDesignator=P1_M2
+Change Component Designator: OldDesignator=R11 NewDesignator=R11_M2
+Change Component Designator: OldDesignator=R12 NewDesignator=R12_M2
+Change Component Designator: OldDesignator=R13 NewDesignator=R13_M2
+Change Component Designator: OldDesignator=R14 NewDesignator=R14_M2
+Change Component Designator: OldDesignator=R15 NewDesignator=R15_M2
+Change Component Designator: OldDesignator=R16 NewDesignator=R16_M2
+Change Component Designator: OldDesignator=R17 NewDesignator=R17_M2
+Change Component Designator: OldDesignator=R18 NewDesignator=R18_M2
+Change Component Designator: OldDesignator=R19 NewDesignator=R19_M2
+Change Component Designator: OldDesignator=R20 NewDesignator=R20_M2
+Change Component Designator: OldDesignator=R21 NewDesignator=R21_M2
+Change Component Designator: OldDesignator=R22 NewDesignator=R22_M2
+Change Component Designator: OldDesignator=R23 NewDesignator=R23_M2
+Change Component Designator: OldDesignator=R24 NewDesignator=R24_M2
+Change Component Designator: OldDesignator=R25 NewDesignator=R25_M2
+Change Component Designator: OldDesignator=R26 NewDesignator=R26_M2
+Change Component Designator: OldDesignator=R27 NewDesignator=R27_M2
+Change Component Designator: OldDesignator=R28 NewDesignator=R28_M2
+Change Component Designator: OldDesignator=R29 NewDesignator=R29_M2
+Change Component Designator: OldDesignator=R30 NewDesignator=R30_M2
+Change Component Designator: OldDesignator=T1 NewDesignator=T1_M2
+Change Component Designator: OldDesignator=T2 NewDesignator=T2_M2
+Change Component Designator: OldDesignator=T3 NewDesignator=T3_M2
+Change Component Designator: OldDesignator=U3 NewDesignator=U3_M2
+Change Component Designator: OldDesignator=U4 NewDesignator=U4_M2
+Change Component Designator: OldDesignator=U5 NewDesignator=U5_M2
+Change Component Designator: OldDesignator=U6 NewDesignator=U6_M2
+Change Component Designator: OldDesignator=U7 NewDesignator=U7_M2
+Added Component: Designator=C2_M1(1608[0603])
+Added Component: Designator=C3_M1(1608[0603])
+Added Component: Designator=C4_M1(1608[0603])
+Added Component: Designator=C5_M1(1608[0603])
+Added Component: Designator=C6_M1(1608[0603])
+Added Component: Designator=C7_M1(1608[0603])
+Added Component: Designator=C8_M1(1608[0603])
+Added Component: Designator=C9_M1(1608[0603])
+Added Component: Designator=C10_M1(1608[0603])
+Added Component: Designator=C11_M1(1608[0603])
+Added Component: Designator=C12_M1(1608[0603])
+Added Component: Designator=D3_M1(J1-0603)
+Added Component: Designator=D4_M1(J1-0603)
+Added Component: Designator=P1_M1(MHDR1X3)
+Added Component: Designator=R11_M1(J1-0603)
+Added Component: Designator=R12_M1(J1-0603)
+Added Component: Designator=R13_M1(J1-0603)
+Added Component: Designator=R14_M1(J1-0603)
+Added Component: Designator=R15_M1(J1-0603)
+Added Component: Designator=R16_M1(J1-0603)
+Added Component: Designator=R17_M1(J1-0603)
+Added Component: Designator=R18_M1(J1-0603)
+Added Component: Designator=R19_M1(J1-0603)
+Added Component: Designator=R20_M1(J1-0603)
+Added Component: Designator=R21_M1(J1-0603)
+Added Component: Designator=R22_M1(J1-0603)
+Added Component: Designator=R23_M1(J1-0603)
+Added Component: Designator=R24_M1(J1-0603)
+Added Component: Designator=R25_M1(14-1210)
+Added Component: Designator=R26_M1(J1-0603)
+Added Component: Designator=R27_M1(J1-0603)
+Added Component: Designator=R28_M1(J1-0603)
+Added Component: Designator=R29_M1(J1-0603)
+Added Component: Designator=R30_M1(J1-0603)
+Added Component: Designator=T1_M1(SOIC127P600-8L)
+Added Component: Designator=T2_M1(SOIC127P600-8L)
+Added Component: Designator=T3_M1(SOIC127P600-8L)
+Added Component: Designator=U3_M1(SSOP-SS28_N)
+Added Component: Designator=U4_M1(SOIC-OA8_N)
+Added Component: Designator=U5_M1(SOIC-OA8_N)
+Added Component: Designator=U6_M1(SOIC-OA8_N)
+Added Component: Designator=U7_M1(SOT-23-OT5_N)
+Added Pin To Net: NetName=GND Pin=C2_M1-1
+Added Pin To Net: NetName=GND Pin=C3_M1-1
+Added Pin To Net: NetName=V3.3 Pin=C3_M1-2
+Added Pin To Net: NetName=GND Pin=C4_M1-1
+Added Pin To Net: NetName=V3.3 Pin=C4_M1-2
+Added Pin To Net: NetName=GND Pin=C5_M1-1
+Added Pin To Net: NetName=VBATT Pin=C5_M1-2
+Added Pin To Net: NetName=GND Pin=C6_M1-1
+Added Pin To Net: NetName=VBATT Pin=C6_M1-2
+Added Pin To Net: NetName=GND Pin=C7_M1-1
+Added Pin To Net: NetName=VBATT Pin=C7_M1-2
+Added Pin To Net: NetName=GND Pin=C8_M1-1
+Added Pin To Net: NetName=VBATT Pin=C8_M1-2
+Added Pin To Net: NetName=GND Pin=C9_M1-1
+Added Pin To Net: NetName=VBATT Pin=C9_M1-2
+Added Pin To Net: NetName=GND Pin=C10_M1-1
+Added Pin To Net: NetName=VBATT Pin=C10_M1-2
+Added Pin To Net: NetName=GND Pin=C11_M1-1
+Added Pin To Net: NetName=GND Pin=C12_M1-1
+Added Pin To Net: NetName=V3.3 Pin=D3_M1-1
+Added Pin To Net: NetName=V3.3 Pin=D4_M1-1
+Added Pin To Net: NetName=V3.3 Pin=R11_M1-1
+Added Pin To Net: NetName=GND Pin=R12_M1-1
+Added Pin To Net: NetName=GND Pin=R13_M1-1
+Added Pin To Net: NetName=GND Pin=R18_M1-2
+Added Pin To Net: NetName=GND Pin=R21_M1-2
+Added Pin To Net: NetName=GND Pin=R24_M1-2
+Added Pin To Net: NetName=GND Pin=R25_M1-1
+Added Pin To Net: NetName=GND Pin=R27_M1-1
+Added Pin To Net: NetName=VBATT Pin=T1_M1-5
+Added Pin To Net: NetName=VBATT Pin=T1_M1-6
+Added Pin To Net: NetName=VBATT Pin=T2_M1-5
+Added Pin To Net: NetName=VBATT Pin=T2_M1-6
+Added Pin To Net: NetName=VBATT Pin=T3_M1-5
+Added Pin To Net: NetName=VBATT Pin=T3_M1-6
+Added Pin To Net: NetName=GND Pin=U3_M1-8
+Added Pin To Net: NetName=V3.3 Pin=U3_M1-13
+Added Pin To Net: NetName=GND Pin=U3_M1-19
+Added Pin To Net: NetName=GND Pin=U3_M1-27
+Added Pin To Net: NetName=V3.3 Pin=U3_M1-28
+Added Pin To Net: NetName=GND Pin=U4_M1-3
+Added Pin To Net: NetName=VBATT Pin=U4_M1-6
+Added Pin To Net: NetName=GND Pin=U5_M1-3
+Added Pin To Net: NetName=VBATT Pin=U5_M1-6
+Added Pin To Net: NetName=GND Pin=U6_M1-3
+Added Pin To Net: NetName=VBATT Pin=U6_M1-6
+Added Pin To Net: NetName=GND Pin=U7_M1-2
+Added Pin To Net: NetName=VBATT Pin=U7_M1-5
+Change Net Name : Old Net Name=DET1 New Net Name=DET1_M2
+Change Net Name : Old Net Name=DET2 New Net Name=DET2_M2
+Change Net Name : Old Net Name=M1 New Net Name=M1_M2
+Change Net Name : Old Net Name=M2 New Net Name=M2_M2
+Change Net Name : Old Net Name=M3 New Net Name=M3_M2
+Change Net Name : Old Net Name=MOTOR_CURRENT New Net Name=MOTOR_CURRENT_M2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC2_M2_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC11_M2_2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD3_M2_2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD4_M2_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR11_M2_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR14_M2_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR15_M2_2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR16_M2_1
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR16_M2_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR19_M2_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR19_M2_2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR22_M2_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR22_M2_2
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR25_M2_2
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR27_M2_2
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetR28_M2_2
+Change Net Name : Old Net Name=NetR29_2 New Net Name=NetR29_M2_2
+Change Net Name : Old Net Name=NetT1_2 New Net Name=NetT1_M2_2
+Change Net Name : Old Net Name=NetT1_4 New Net Name=NetT1_M2_4
+Change Net Name : Old Net Name=NetT2_2 New Net Name=NetT2_M2_2
+Change Net Name : Old Net Name=NetT2_4 New Net Name=NetT2_M2_4
+Change Net Name : Old Net Name=NetT3_2 New Net Name=NetT3_M2_2
+Change Net Name : Old Net Name=NetT3_4 New Net Name=NetT3_M2_4
+Change Net Name : Old Net Name=NetU3_21 New Net Name=NetU3_M2_21
+Change Net Name : Old Net Name=NetU3_22 New Net Name=NetU3_M2_22
+Change Net Name : Old Net Name=NetU3_23 New Net Name=NetU3_M2_23
+Change Net Name : Old Net Name=NetU3_24 New Net Name=NetU3_M2_24
+Change Net Name : Old Net Name=NetU3_25 New Net Name=NetU3_M2_25
+Change Net Name : Old Net Name=NetU3_26 New Net Name=NetU3_M2_26
+Added Pin To Net: NetName=DET1_M1 Pin=R12_M1-2
+Added Pin To Net: NetName=DET1_M1 Pin=U3_M1-15
+Added Net: Name=DET1_M1
+Added Pin To Net: NetName=DET2_M1 Pin=R13_M1-2
+Added Pin To Net: NetName=DET2_M1 Pin=U3_M1-16
+Added Net: Name=DET2_M1
+Added Pin To Net: NetName=M1_M1 Pin=P1_M1-1
+Added Pin To Net: NetName=M1_M1 Pin=R17_M1-1
+Added Pin To Net: NetName=M1_M1 Pin=T1_M1-3
+Added Pin To Net: NetName=M1_M1 Pin=T1_M1-7
+Added Pin To Net: NetName=M1_M1 Pin=T1_M1-8
+Added Net: Name=M1_M1
+Added Pin To Net: NetName=M2_M1 Pin=P1_M1-2
+Added Pin To Net: NetName=M2_M1 Pin=R20_M1-1
+Added Pin To Net: NetName=M2_M1 Pin=T2_M1-3
+Added Pin To Net: NetName=M2_M1 Pin=T2_M1-7
+Added Pin To Net: NetName=M2_M1 Pin=T2_M1-8
+Added Net: Name=M2_M1
+Added Pin To Net: NetName=M3_M1 Pin=P1_M1-3
+Added Pin To Net: NetName=M3_M1 Pin=R23_M1-2
+Added Pin To Net: NetName=M3_M1 Pin=T3_M1-3
+Added Pin To Net: NetName=M3_M1 Pin=T3_M1-7
+Added Pin To Net: NetName=M3_M1 Pin=T3_M1-8
+Added Net: Name=M3_M1
+Added Pin To Net: NetName=MOTOR_CURRENT_M1 Pin=C12_M1-2
+Added Pin To Net: NetName=MOTOR_CURRENT_M1 Pin=R30_M1-2
+Added Pin To Net: NetName=MOTOR_CURRENT_M1 Pin=U3_M1-4
+Added Net: Name=MOTOR_CURRENT_M1
+Added Pin To Net: NetName=NetC2_M1_2 Pin=C2_M1-2
+Added Pin To Net: NetName=NetC2_M1_2 Pin=U3_M1-20
+Added Net: Name=NetC2_M1_2
+Added Pin To Net: NetName=NetC11_M1_2 Pin=C11_M1-2
+Added Pin To Net: NetName=NetC11_M1_2 Pin=R26_M1-2
+Added Pin To Net: NetName=NetC11_M1_2 Pin=R28_M1-1
+Added Net: Name=NetC11_M1_2
+Added Pin To Net: NetName=NetD3_M1_2 Pin=D3_M1-2
+Added Pin To Net: NetName=NetD3_M1_2 Pin=R14_M1-1
+Added Net: Name=NetD3_M1_2
+Added Pin To Net: NetName=NetD4_M1_2 Pin=D4_M1-2
+Added Pin To Net: NetName=NetD4_M1_2 Pin=R15_M1-1
+Added Net: Name=NetD4_M1_2
+Added Pin To Net: NetName=NetR11_M1_2 Pin=R11_M1-2
+Added Pin To Net: NetName=NetR11_M1_2 Pin=U3_M1-1
+Added Net: Name=NetR11_M1_2
+Added Pin To Net: NetName=NetR14_M1_2 Pin=R14_M1-2
+Added Pin To Net: NetName=NetR14_M1_2 Pin=U3_M1-3
+Added Net: Name=NetR14_M1_2
+Added Pin To Net: NetName=NetR15_M1_2 Pin=R15_M1-2
+Added Pin To Net: NetName=NetR15_M1_2 Pin=U3_M1-2
+Added Net: Name=NetR15_M1_2
+Added Pin To Net: NetName=NetR16_M1_1 Pin=R16_M1-1
+Added Pin To Net: NetName=NetR16_M1_1 Pin=U3_M1-5
+Added Net: Name=NetR16_M1_1
+Added Pin To Net: NetName=NetR16_M1_2 Pin=R16_M1-2
+Added Pin To Net: NetName=NetR16_M1_2 Pin=R17_M1-2
+Added Pin To Net: NetName=NetR16_M1_2 Pin=R18_M1-1
+Added Net: Name=NetR16_M1_2
+Added Pin To Net: NetName=NetR19_M1_1 Pin=R19_M1-1
+Added Pin To Net: NetName=NetR19_M1_1 Pin=U3_M1-6
+Added Net: Name=NetR19_M1_1
+Added Pin To Net: NetName=NetR19_M1_2 Pin=R19_M1-2
+Added Pin To Net: NetName=NetR19_M1_2 Pin=R20_M1-2
+Added Pin To Net: NetName=NetR19_M1_2 Pin=R21_M1-1
+Added Net: Name=NetR19_M1_2
+Added Pin To Net: NetName=NetR22_M1_1 Pin=R22_M1-1
+Added Pin To Net: NetName=NetR22_M1_1 Pin=U3_M1-7
+Added Net: Name=NetR22_M1_1
+Added Pin To Net: NetName=NetR22_M1_2 Pin=R22_M1-2
+Added Pin To Net: NetName=NetR22_M1_2 Pin=R23_M1-1
+Added Pin To Net: NetName=NetR22_M1_2 Pin=R24_M1-1
+Added Net: Name=NetR22_M1_2
+Added Pin To Net: NetName=NetR25_M1_2 Pin=R25_M1-2
+Added Pin To Net: NetName=NetR25_M1_2 Pin=R26_M1-1
+Added Pin To Net: NetName=NetR25_M1_2 Pin=T1_M1-1
+Added Pin To Net: NetName=NetR25_M1_2 Pin=T2_M1-1
+Added Pin To Net: NetName=NetR25_M1_2 Pin=T3_M1-1
+Added Net: Name=NetR25_M1_2
+Added Pin To Net: NetName=NetR27_M1_2 Pin=R27_M1-2
+Added Pin To Net: NetName=NetR27_M1_2 Pin=R29_M1-1
+Added Pin To Net: NetName=NetR27_M1_2 Pin=U7_M1-4
+Added Net: Name=NetR27_M1_2
+Added Pin To Net: NetName=NetR28_M1_2 Pin=R28_M1-2
+Added Pin To Net: NetName=NetR28_M1_2 Pin=U7_M1-3
+Added Net: Name=NetR28_M1_2
+Added Pin To Net: NetName=NetR29_M1_2 Pin=R29_M1-2
+Added Pin To Net: NetName=NetR29_M1_2 Pin=R30_M1-1
+Added Pin To Net: NetName=NetR29_M1_2 Pin=U7_M1-1
+Added Net: Name=NetR29_M1_2
+Added Pin To Net: NetName=NetT1_M1_2 Pin=T1_M1-2
+Added Pin To Net: NetName=NetT1_M1_2 Pin=U4_M1-5
+Added Net: Name=NetT1_M1_2
+Added Pin To Net: NetName=NetT1_M1_4 Pin=T1_M1-4
+Added Pin To Net: NetName=NetT1_M1_4 Pin=U4_M1-7
+Added Net: Name=NetT1_M1_4
+Added Pin To Net: NetName=NetT2_M1_2 Pin=T2_M1-2
+Added Pin To Net: NetName=NetT2_M1_2 Pin=U5_M1-5
+Added Net: Name=NetT2_M1_2
+Added Pin To Net: NetName=NetT2_M1_4 Pin=T2_M1-4
+Added Pin To Net: NetName=NetT2_M1_4 Pin=U5_M1-7
+Added Net: Name=NetT2_M1_4
+Added Pin To Net: NetName=NetT3_M1_2 Pin=T3_M1-2
+Added Pin To Net: NetName=NetT3_M1_2 Pin=U6_M1-5
+Added Net: Name=NetT3_M1_2
+Added Pin To Net: NetName=NetT3_M1_4 Pin=T3_M1-4
+Added Pin To Net: NetName=NetT3_M1_4 Pin=U6_M1-7
+Added Net: Name=NetT3_M1_4
+Added Pin To Net: NetName=NetU3_M1_11 Pin=U3_M1-11
+Added Net: Name=NetU3_M1_11
+Added Pin To Net: NetName=NetU3_M1_12 Pin=U3_M1-12
+Added Net: Name=NetU3_M1_12
+Added Pin To Net: NetName=NetU3_M1_17 Pin=U3_M1-17
+Added Net: Name=NetU3_M1_17
+Added Pin To Net: NetName=NetU3_M1_18 Pin=U3_M1-18
+Added Net: Name=NetU3_M1_18
+Added Pin To Net: NetName=NetU3_M1_21 Pin=U3_M1-21
+Added Pin To Net: NetName=NetU3_M1_21 Pin=U4_M1-2
+Added Net: Name=NetU3_M1_21
+Added Pin To Net: NetName=NetU3_M1_22 Pin=U3_M1-22
+Added Pin To Net: NetName=NetU3_M1_22 Pin=U4_M1-4
+Added Net: Name=NetU3_M1_22
+Added Pin To Net: NetName=NetU3_M1_23 Pin=U3_M1-23
+Added Pin To Net: NetName=NetU3_M1_23 Pin=U5_M1-2
+Added Net: Name=NetU3_M1_23
+Added Pin To Net: NetName=NetU3_M1_24 Pin=U3_M1-24
+Added Pin To Net: NetName=NetU3_M1_24 Pin=U5_M1-4
+Added Net: Name=NetU3_M1_24
+Added Pin To Net: NetName=NetU3_M1_25 Pin=U3_M1-25
+Added Pin To Net: NetName=NetU3_M1_25 Pin=U6_M1-2
+Added Net: Name=NetU3_M1_25
+Added Pin To Net: NetName=NetU3_M1_26 Pin=U3_M1-26
+Added Pin To Net: NetName=NetU3_M1_26 Pin=U6_M1-4
+Added Net: Name=NetU3_M1_26
+Change Class Name : Old Net Name=M New Net Name=M2
+Added Class: Name=M1
+Added Class: Name=motor_controller
+Added Room: Name=M1
+Added Room: Name=M2

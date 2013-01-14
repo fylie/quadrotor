@@ -1,0 +1,305 @@
+Change Component Designator: OldDesignator=C2B NewDesignator=C2C
+Change Component Designator: OldDesignator=C3B NewDesignator=C3C
+Change Component Designator: OldDesignator=C4B NewDesignator=C4C
+Change Component Designator: OldDesignator=C5B NewDesignator=C5C
+Change Component Designator: OldDesignator=C6B NewDesignator=C6C
+Change Component Designator: OldDesignator=C7B NewDesignator=C7C
+Change Component Designator: OldDesignator=C8B NewDesignator=C8C
+Change Component Designator: OldDesignator=C9B NewDesignator=C9C
+Change Component Designator: OldDesignator=C10B NewDesignator=C10C
+Change Component Designator: OldDesignator=C11B NewDesignator=C11C
+Change Component Designator: OldDesignator=C12B NewDesignator=C12C
+Change Component Designator: OldDesignator=D3B NewDesignator=D3C
+Change Component Designator: OldDesignator=D4B NewDesignator=D4C
+Change Component Designator: OldDesignator=P1B NewDesignator=P1C
+Change Component Designator: OldDesignator=R11B NewDesignator=R11C
+Change Component Designator: OldDesignator=R12B NewDesignator=R12C
+Change Component Designator: OldDesignator=R13B NewDesignator=R13C
+Change Component Designator: OldDesignator=R14B NewDesignator=R14C
+Change Component Designator: OldDesignator=R15B NewDesignator=R15C
+Change Component Designator: OldDesignator=R16B NewDesignator=R16C
+Change Component Designator: OldDesignator=R17B NewDesignator=R17C
+Change Component Designator: OldDesignator=R18B NewDesignator=R18C
+Change Component Designator: OldDesignator=R19B NewDesignator=R19C
+Change Component Designator: OldDesignator=R20B NewDesignator=R20C
+Change Component Designator: OldDesignator=R21B NewDesignator=R21C
+Change Component Designator: OldDesignator=R22B NewDesignator=R22C
+Change Component Designator: OldDesignator=R23B NewDesignator=R23C
+Change Component Designator: OldDesignator=R24B NewDesignator=R24C
+Change Component Designator: OldDesignator=R25B NewDesignator=R25C
+Change Component Designator: OldDesignator=R26B NewDesignator=R26C
+Change Component Designator: OldDesignator=R27B NewDesignator=R27C
+Change Component Designator: OldDesignator=R28B NewDesignator=R28C
+Change Component Designator: OldDesignator=R29B NewDesignator=R29C
+Change Component Designator: OldDesignator=R30B NewDesignator=R30C
+Change Component Designator: OldDesignator=T1B NewDesignator=T1C
+Change Component Designator: OldDesignator=T2B NewDesignator=T2C
+Change Component Designator: OldDesignator=T3B NewDesignator=T3C
+Change Component Designator: OldDesignator=U3B NewDesignator=U3C
+Change Component Designator: OldDesignator=U4B NewDesignator=U4C
+Change Component Designator: OldDesignator=U5B NewDesignator=U5C
+Change Component Designator: OldDesignator=U6B NewDesignator=U6C
+Change Component Designator: OldDesignator=U7B NewDesignator=U7C
+Added Component: Designator=C2B(1608[0603])
+Added Component: Designator=C3B(1608[0603])
+Added Component: Designator=C4B(1608[0603])
+Added Component: Designator=C5B(1608[0603])
+Added Component: Designator=C6B(1608[0603])
+Added Component: Designator=C7B(1608[0603])
+Added Component: Designator=C8B(1608[0603])
+Added Component: Designator=C9B(1608[0603])
+Added Component: Designator=C10B(1608[0603])
+Added Component: Designator=C11B(1608[0603])
+Added Component: Designator=C12B(1608[0603])
+Added Component: Designator=D3B(J1-0603)
+Added Component: Designator=D4B(J1-0603)
+Added Component: Designator=P1B(MHDR1X3)
+Added Component: Designator=R11B(J1-0603)
+Added Component: Designator=R12B(J1-0603)
+Added Component: Designator=R13B(J1-0603)
+Added Component: Designator=R14B(J1-0603)
+Added Component: Designator=R15B(J1-0603)
+Added Component: Designator=R16B(J1-0603)
+Added Component: Designator=R17B(J1-0603)
+Added Component: Designator=R18B(J1-0603)
+Added Component: Designator=R19B(J1-0603)
+Added Component: Designator=R20B(J1-0603)
+Added Component: Designator=R21B(J1-0603)
+Added Component: Designator=R22B(J1-0603)
+Added Component: Designator=R23B(J1-0603)
+Added Component: Designator=R24B(J1-0603)
+Added Component: Designator=R25B(14-1210)
+Added Component: Designator=R26B(J1-0603)
+Added Component: Designator=R27B(J1-0603)
+Added Component: Designator=R28B(J1-0603)
+Added Component: Designator=R29B(J1-0603)
+Added Component: Designator=R30B(J1-0603)
+Added Component: Designator=T1B(SOIC127P600-8L)
+Added Component: Designator=T2B(SOIC127P600-8L)
+Added Component: Designator=T3B(SOIC127P600-8L)
+Added Component: Designator=U3B(SSOP-SS28_N)
+Added Component: Designator=U4B(SOIC-OA8_N)
+Added Component: Designator=U5B(SOIC-OA8_N)
+Added Component: Designator=U6B(SOIC-OA8_N)
+Added Component: Designator=U7B(SOT-23-OT5_N)
+Added Pin To Net: NetName=GND Pin=C2B-1
+Added Pin To Net: NetName=GND Pin=C3B-1
+Added Pin To Net: NetName=V3.3 Pin=C3B-2
+Added Pin To Net: NetName=GND Pin=C4B-1
+Added Pin To Net: NetName=V3.3 Pin=C4B-2
+Added Pin To Net: NetName=GND Pin=C5B-1
+Added Pin To Net: NetName=VBATT Pin=C5B-2
+Added Pin To Net: NetName=GND Pin=C6B-1
+Added Pin To Net: NetName=VBATT Pin=C6B-2
+Added Pin To Net: NetName=GND Pin=C7B-1
+Added Pin To Net: NetName=VBATT Pin=C7B-2
+Added Pin To Net: NetName=GND Pin=C8B-1
+Added Pin To Net: NetName=VBATT Pin=C8B-2
+Added Pin To Net: NetName=GND Pin=C9B-1
+Added Pin To Net: NetName=VBATT Pin=C9B-2
+Added Pin To Net: NetName=GND Pin=C10B-1
+Added Pin To Net: NetName=VBATT Pin=C10B-2
+Added Pin To Net: NetName=GND Pin=C11B-1
+Added Pin To Net: NetName=GND Pin=C12B-1
+Added Pin To Net: NetName=V3.3 Pin=D3B-1
+Added Pin To Net: NetName=V3.3 Pin=D4B-1
+Added Pin To Net: NetName=V3.3 Pin=R11B-1
+Added Pin To Net: NetName=GND Pin=R12B-1
+Added Pin To Net: NetName=GND Pin=R13B-1
+Added Pin To Net: NetName=GND Pin=R18B-2
+Added Pin To Net: NetName=GND Pin=R21B-2
+Added Pin To Net: NetName=GND Pin=R24B-2
+Added Pin To Net: NetName=GND Pin=R25B-1
+Added Pin To Net: NetName=GND Pin=R27B-1
+Added Pin To Net: NetName=VBATT Pin=T1B-5
+Added Pin To Net: NetName=VBATT Pin=T1B-6
+Added Pin To Net: NetName=VBATT Pin=T2B-5
+Added Pin To Net: NetName=VBATT Pin=T2B-6
+Added Pin To Net: NetName=VBATT Pin=T3B-5
+Added Pin To Net: NetName=VBATT Pin=T3B-6
+Added Pin To Net: NetName=GND Pin=U3B-8
+Added Pin To Net: NetName=V3.3 Pin=U3B-13
+Added Pin To Net: NetName=GND Pin=U3B-19
+Added Pin To Net: NetName=GND Pin=U3B-27
+Added Pin To Net: NetName=V3.3 Pin=U3B-28
+Added Pin To Net: NetName=GND Pin=U4B-3
+Added Pin To Net: NetName=VBATT Pin=U4B-6
+Added Pin To Net: NetName=GND Pin=U5B-3
+Added Pin To Net: NetName=VBATT Pin=U5B-6
+Added Pin To Net: NetName=GND Pin=U6B-3
+Added Pin To Net: NetName=VBATT Pin=U6B-6
+Added Pin To Net: NetName=GND Pin=U7B-2
+Added Pin To Net: NetName=VBATT Pin=U7B-5
+Change Net Name : Old Net Name=DET1B New Net Name=DET1C
+Change Net Name : Old Net Name=DET2B New Net Name=DET2C
+Change Net Name : Old Net Name=M1B New Net Name=M1C
+Change Net Name : Old Net Name=M2B New Net Name=M2C
+Change Net Name : Old Net Name=M3B New Net Name=M3C
+Change Net Name : Old Net Name=MOTOR_CURRENTB New Net Name=MOTOR_CURRENTC
+Change Net Name : Old Net Name=NetC2B_2 New Net Name=NetC2C_2
+Change Net Name : Old Net Name=NetC11B_2 New Net Name=NetC11C_2
+Change Net Name : Old Net Name=NetD3B_2 New Net Name=NetD3C_2
+Change Net Name : Old Net Name=NetD4B_2 New Net Name=NetD4C_2
+Change Net Name : Old Net Name=NetR11B_2 New Net Name=NetR11C_2
+Change Net Name : Old Net Name=NetR14B_2 New Net Name=NetR14C_2
+Change Net Name : Old Net Name=NetR15B_2 New Net Name=NetR15C_2
+Change Net Name : Old Net Name=NetR16B_1 New Net Name=NetR16C_1
+Change Net Name : Old Net Name=NetR16B_2 New Net Name=NetR16C_2
+Change Net Name : Old Net Name=NetR19B_1 New Net Name=NetR19C_1
+Change Net Name : Old Net Name=NetR19B_2 New Net Name=NetR19C_2
+Change Net Name : Old Net Name=NetR22B_1 New Net Name=NetR22C_1
+Change Net Name : Old Net Name=NetR22B_2 New Net Name=NetR22C_2
+Change Net Name : Old Net Name=NetR25B_2 New Net Name=NetR25C_2
+Change Net Name : Old Net Name=NetR27B_2 New Net Name=NetR27C_2
+Change Net Name : Old Net Name=NetR28B_2 New Net Name=NetR28C_2
+Change Net Name : Old Net Name=NetR29B_2 New Net Name=NetR29C_2
+Change Net Name : Old Net Name=NetT1B_2 New Net Name=NetT1C_2
+Change Net Name : Old Net Name=NetT1B_4 New Net Name=NetT1C_4
+Change Net Name : Old Net Name=NetT2B_2 New Net Name=NetT2C_2
+Change Net Name : Old Net Name=NetT2B_4 New Net Name=NetT2C_4
+Change Net Name : Old Net Name=NetT3B_2 New Net Name=NetT3C_2
+Change Net Name : Old Net Name=NetT3B_4 New Net Name=NetT3C_4
+Change Net Name : Old Net Name=NetU3B_11 New Net Name=NetU3C_11
+Change Net Name : Old Net Name=NetU3B_12 New Net Name=NetU3C_12
+Change Net Name : Old Net Name=NetU3B_17 New Net Name=NetU3C_17
+Change Net Name : Old Net Name=NetU3B_18 New Net Name=NetU3C_18
+Change Net Name : Old Net Name=NetU3B_21 New Net Name=NetU3C_21
+Change Net Name : Old Net Name=NetU3B_22 New Net Name=NetU3C_22
+Change Net Name : Old Net Name=NetU3B_23 New Net Name=NetU3C_23
+Change Net Name : Old Net Name=NetU3B_24 New Net Name=NetU3C_24
+Change Net Name : Old Net Name=NetU3B_25 New Net Name=NetU3C_25
+Change Net Name : Old Net Name=NetU3B_26 New Net Name=NetU3C_26
+Added Pin To Net: NetName=DET1B Pin=R12B-2
+Added Pin To Net: NetName=DET1B Pin=U3B-15
+Added Net: Name=DET1B
+Added Pin To Net: NetName=DET2B Pin=R13B-2
+Added Pin To Net: NetName=DET2B Pin=U3B-16
+Added Net: Name=DET2B
+Added Pin To Net: NetName=M1B Pin=P1B-1
+Added Pin To Net: NetName=M1B Pin=R17B-1
+Added Pin To Net: NetName=M1B Pin=T1B-3
+Added Pin To Net: NetName=M1B Pin=T1B-7
+Added Pin To Net: NetName=M1B Pin=T1B-8
+Added Net: Name=M1B
+Added Pin To Net: NetName=M2B Pin=P1B-2
+Added Pin To Net: NetName=M2B Pin=R20B-1
+Added Pin To Net: NetName=M2B Pin=T2B-3
+Added Pin To Net: NetName=M2B Pin=T2B-7
+Added Pin To Net: NetName=M2B Pin=T2B-8
+Added Net: Name=M2B
+Added Pin To Net: NetName=M3B Pin=P1B-3
+Added Pin To Net: NetName=M3B Pin=R23B-2
+Added Pin To Net: NetName=M3B Pin=T3B-3
+Added Pin To Net: NetName=M3B Pin=T3B-7
+Added Pin To Net: NetName=M3B Pin=T3B-8
+Added Net: Name=M3B
+Added Pin To Net: NetName=MOTOR_CURRENTB Pin=C12B-2
+Added Pin To Net: NetName=MOTOR_CURRENTB Pin=R30B-2
+Added Pin To Net: NetName=MOTOR_CURRENTB Pin=U3B-4
+Added Net: Name=MOTOR_CURRENTB
+Added Pin To Net: NetName=NetC2B_2 Pin=C2B-2
+Added Pin To Net: NetName=NetC2B_2 Pin=U3B-20
+Added Net: Name=NetC2B_2
+Added Pin To Net: NetName=NetC11B_2 Pin=C11B-2
+Added Pin To Net: NetName=NetC11B_2 Pin=R26B-2
+Added Pin To Net: NetName=NetC11B_2 Pin=R28B-1
+Added Net: Name=NetC11B_2
+Added Pin To Net: NetName=NetD3B_2 Pin=D3B-2
+Added Pin To Net: NetName=NetD3B_2 Pin=R14B-1
+Added Net: Name=NetD3B_2
+Added Pin To Net: NetName=NetD4B_2 Pin=D4B-2
+Added Pin To Net: NetName=NetD4B_2 Pin=R15B-1
+Added Net: Name=NetD4B_2
+Added Pin To Net: NetName=NetR11B_2 Pin=R11B-2
+Added Pin To Net: NetName=NetR11B_2 Pin=U3B-1
+Added Net: Name=NetR11B_2
+Added Pin To Net: NetName=NetR14B_2 Pin=R14B-2
+Added Pin To Net: NetName=NetR14B_2 Pin=U3B-3
+Added Net: Name=NetR14B_2
+Added Pin To Net: NetName=NetR15B_2 Pin=R15B-2
+Added Pin To Net: NetName=NetR15B_2 Pin=U3B-2
+Added Net: Name=NetR15B_2
+Added Pin To Net: NetName=NetR16B_1 Pin=R16B-1
+Added Pin To Net: NetName=NetR16B_1 Pin=U3B-5
+Added Net: Name=NetR16B_1
+Added Pin To Net: NetName=NetR16B_2 Pin=R16B-2
+Added Pin To Net: NetName=NetR16B_2 Pin=R17B-2
+Added Pin To Net: NetName=NetR16B_2 Pin=R18B-1
+Added Net: Name=NetR16B_2
+Added Pin To Net: NetName=NetR19B_1 Pin=R19B-1
+Added Pin To Net: NetName=NetR19B_1 Pin=U3B-6
+Added Net: Name=NetR19B_1
+Added Pin To Net: NetName=NetR19B_2 Pin=R19B-2
+Added Pin To Net: NetName=NetR19B_2 Pin=R20B-2
+Added Pin To Net: NetName=NetR19B_2 Pin=R21B-1
+Added Net: Name=NetR19B_2
+Added Pin To Net: NetName=NetR22B_1 Pin=R22B-1
+Added Pin To Net: NetName=NetR22B_1 Pin=U3B-7
+Added Net: Name=NetR22B_1
+Added Pin To Net: NetName=NetR22B_2 Pin=R22B-2
+Added Pin To Net: NetName=NetR22B_2 Pin=R23B-1
+Added Pin To Net: NetName=NetR22B_2 Pin=R24B-1
+Added Net: Name=NetR22B_2
+Added Pin To Net: NetName=NetR25B_2 Pin=R25B-2
+Added Pin To Net: NetName=NetR25B_2 Pin=R26B-1
+Added Pin To Net: NetName=NetR25B_2 Pin=T1B-1
+Added Pin To Net: NetName=NetR25B_2 Pin=T2B-1
+Added Pin To Net: NetName=NetR25B_2 Pin=T3B-1
+Added Net: Name=NetR25B_2
+Added Pin To Net: NetName=NetR27B_2 Pin=R27B-2
+Added Pin To Net: NetName=NetR27B_2 Pin=R29B-1
+Added Pin To Net: NetName=NetR27B_2 Pin=U7B-4
+Added Net: Name=NetR27B_2
+Added Pin To Net: NetName=NetR28B_2 Pin=R28B-2
+Added Pin To Net: NetName=NetR28B_2 Pin=U7B-3
+Added Net: Name=NetR28B_2
+Added Pin To Net: NetName=NetR29B_2 Pin=R29B-2
+Added Pin To Net: NetName=NetR29B_2 Pin=R30B-1
+Added Pin To Net: NetName=NetR29B_2 Pin=U7B-1
+Added Net: Name=NetR29B_2
+Added Pin To Net: NetName=NetT1B_2 Pin=T1B-2
+Added Pin To Net: NetName=NetT1B_2 Pin=U4B-5
+Added Net: Name=NetT1B_2
+Added Pin To Net: NetName=NetT1B_4 Pin=T1B-4
+Added Pin To Net: NetName=NetT1B_4 Pin=U4B-7
+Added Net: Name=NetT1B_4
+Added Pin To Net: NetName=NetT2B_2 Pin=T2B-2
+Added Pin To Net: NetName=NetT2B_2 Pin=U5B-5
+Added Net: Name=NetT2B_2
+Added Pin To Net: NetName=NetT2B_4 Pin=T2B-4
+Added Pin To Net: NetName=NetT2B_4 Pin=U5B-7
+Added Net: Name=NetT2B_4
+Added Pin To Net: NetName=NetT3B_2 Pin=T3B-2
+Added Pin To Net: NetName=NetT3B_2 Pin=U6B-5
+Added Net: Name=NetT3B_2
+Added Pin To Net: NetName=NetT3B_4 Pin=T3B-4
+Added Pin To Net: NetName=NetT3B_4 Pin=U6B-7
+Added Net: Name=NetT3B_4
+Added Pin To Net: NetName=NetU3B_11 Pin=U3B-11
+Added Net: Name=NetU3B_11
+Added Pin To Net: NetName=NetU3B_12 Pin=U3B-12
+Added Net: Name=NetU3B_12
+Added Pin To Net: NetName=NetU3B_17 Pin=U3B-17
+Added Net: Name=NetU3B_17
+Added Pin To Net: NetName=NetU3B_18 Pin=U3B-18
+Added Net: Name=NetU3B_18
+Added Pin To Net: NetName=NetU3B_21 Pin=U3B-21
+Added Pin To Net: NetName=NetU3B_21 Pin=U4B-2
+Added Net: Name=NetU3B_21
+Added Pin To Net: NetName=NetU3B_22 Pin=U3B-22
+Added Pin To Net: NetName=NetU3B_22 Pin=U4B-4
+Added Net: Name=NetU3B_22
+Added Pin To Net: NetName=NetU3B_23 Pin=U3B-23
+Added Pin To Net: NetName=NetU3B_23 Pin=U5B-2
+Added Net: Name=NetU3B_23
+Added Pin To Net: NetName=NetU3B_24 Pin=U3B-24
+Added Pin To Net: NetName=NetU3B_24 Pin=U5B-4
+Added Net: Name=NetU3B_24
+Added Pin To Net: NetName=NetU3B_25 Pin=U3B-25
+Added Pin To Net: NetName=NetU3B_25 Pin=U6B-2
+Added Net: Name=NetU3B_25
+Added Pin To Net: NetName=NetU3B_26 Pin=U3B-26
+Added Pin To Net: NetName=NetU3B_26 Pin=U6B-4
+Added Net: Name=NetU3B_26
+Added Class: Name=M3
+Added Room: Name=M3
