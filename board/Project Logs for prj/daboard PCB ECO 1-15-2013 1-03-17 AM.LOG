@@ -1,0 +1,13 @@
+Added Component: Designator=U11(QFN-24_N)
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=V3.3MCU Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U11-9
+Added Pin To Net: NetName=NetC24_2 Pin=U11-10
+Added Pin To Net: NetName=GND Pin=U11-11
+Added Pin To Net: NetName=NetU2_130 Pin=U11-12
+Added Pin To Net: NetName=V3.3MCU Pin=U11-13
+Added Pin To Net: NetName=GND Pin=U11-18
+Added Pin To Net: NetName=NetC26_1 Pin=U11-20
+Added Pin To Net: NetName=NetR33_1 Pin=U11-23
+Added Pin To Net: NetName=NetR32_1 Pin=U11-24
+Added Member To Class: ClassName=imu Member=Component U11 mpu6050

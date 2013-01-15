@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR11A_2 Pin=U2-52
+Removed Pin From Net: NetName=NetR11C_2 Pin=U2-55
+Added Pin To Net: NetName=NetR11C_2 Pin=U2-52
+Added Pin To Net: NetName=NetR11A_2 Pin=U2-55
+Added Member To Class: ClassName=M2 Member=Component U3B (U3) DSPIC33FJ12MC202-E/SS

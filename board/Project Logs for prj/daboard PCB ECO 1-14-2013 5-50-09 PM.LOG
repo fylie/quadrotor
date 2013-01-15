@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=V3.3MCU Pin=R32-2
+Removed Pin From Net: NetName=V3.3MCU Pin=R33-2
+Removed Pin From Net: NetName=NetR34_1 Pin=R34-1
+Removed Pin From Net: NetName=V3.3MCU Pin=R34-2
+Removed Pin From Net: NetName=NetR35_1 Pin=R35-1
+Removed Pin From Net: NetName=V3.3MCU Pin=R35-2
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetU2_92
+Change Net Name : Old Net Name=NetR35_1 New Net Name=NetU2_93
+Added Pin To Net: NetName=NetU2_87 Pin=U2-87
+Added Pin To Net: NetName=NetU2_87 Pin=U11-24
+Added Net: Name=NetU2_87
+Added Pin To Net: NetName=NetU2_88 Pin=U2-88
+Added Pin To Net: NetName=NetU2_88 Pin=U11-23
+Added Net: Name=NetU2_88

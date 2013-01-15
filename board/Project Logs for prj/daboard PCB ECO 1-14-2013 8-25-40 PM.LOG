@@ -1,0 +1,36 @@
+Added Component: Designator=SER2A(HDR1X3)
+Added Component: Designator=SER2B(HDR1X3)
+Added Component: Designator=SER2C(HDR1X3)
+Added Component: Designator=SER2D(HDR1X3)
+Added Pin To Net: NetName=GND Pin=SER2A-3
+Added Pin To Net: NetName=GND Pin=SER2B-3
+Added Pin To Net: NetName=GND Pin=SER2C-3
+Added Pin To Net: NetName=GND Pin=SER2D-3
+Added Pin To Net: NetName=NetSER2A_1 Pin=SER2A-1
+Added Pin To Net: NetName=NetSER2A_1 Pin=U3A-14
+Added Net: Name=NetSER2A_1
+Added Pin To Net: NetName=NetSER2A_2 Pin=SER2A-2
+Added Pin To Net: NetName=NetSER2A_2 Pin=U3A-15
+Added Net: Name=NetSER2A_2
+Added Pin To Net: NetName=NetSER2B_1 Pin=SER2B-1
+Added Pin To Net: NetName=NetSER2B_1 Pin=U3B-14
+Added Net: Name=NetSER2B_1
+Added Pin To Net: NetName=NetSER2B_2 Pin=SER2B-2
+Added Pin To Net: NetName=NetSER2B_2 Pin=U3B-15
+Added Net: Name=NetSER2B_2
+Added Pin To Net: NetName=NetSER2C_1 Pin=SER2C-1
+Added Pin To Net: NetName=NetSER2C_1 Pin=U3C-14
+Added Net: Name=NetSER2C_1
+Added Pin To Net: NetName=NetSER2C_2 Pin=SER2C-2
+Added Pin To Net: NetName=NetSER2C_2 Pin=U3C-15
+Added Net: Name=NetSER2C_2
+Added Pin To Net: NetName=NetSER2D_1 Pin=SER2D-1
+Added Pin To Net: NetName=NetSER2D_1 Pin=U3D-14
+Added Net: Name=NetSER2D_1
+Added Pin To Net: NetName=NetSER2D_2 Pin=SER2D-2
+Added Pin To Net: NetName=NetSER2D_2 Pin=U3D-15
+Added Net: Name=NetSER2D_2
+Added Member To Class: ClassName=M1 Member=Component SER2A (SER2) Header 3
+Added Member To Class: ClassName=M2 Member=Component SER2B (SER2) Header 3
+Added Member To Class: ClassName=M3 Member=Component SER2C (SER2) Header 3
+Added Member To Class: ClassName=M4 Member=Component SER2D (SER2) Header 3

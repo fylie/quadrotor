@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=USB2-5
+Removed Pin From Net: NetName=GND Pin=USB2-6
+Added Component: Designator=R32(J1-0603)
+Added Component: Designator=R33(J1-0603)
+Added Component: Designator=R34(J1-0603)
+Added Component: Designator=R35(J1-0603)
+Added Pin To Net: NetName=V3.3MCU Pin=R32-2
+Added Pin To Net: NetName=V3.3MCU Pin=R33-2
+Added Pin To Net: NetName=NetU2_92 Pin=R34-1
+Added Pin To Net: NetName=V3.3MCU Pin=R34-2
+Added Pin To Net: NetName=NetU2_93 Pin=R35-1
+Added Pin To Net: NetName=V3.3MCU Pin=R35-2
+Change Net Name : Old Net Name=NetU2_92 New Net Name=NetR34_1
+Change Net Name : Old Net Name=NetU2_93 New Net Name=NetR35_1
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=NetR32_1 Pin=U2-87
+Added Pin To Net: NetName=NetR32_1 Pin=U11-24
+Added Net: Name=NetR32_1
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=U2-88
+Added Pin To Net: NetName=NetR33_1 Pin=U11-23
+Added Net: Name=NetR33_1
+Added Class: Name=top
+Added Member To Class: ClassName=M1 Member=Component T2A (T2A) SI4532DY
+Added Room: Name=top

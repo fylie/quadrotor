@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=SER2A-3
+Removed Pin From Net: NetName=GND Pin=SER2B-3
+Removed Pin From Net: NetName=GND Pin=SER2C-3
+Removed Pin From Net: NetName=GND Pin=SER2D-3
+Removed Member From Class: ClassName=M1 Member=SER2A
+Removed Member From Class: ClassName=M2 Member=SER2B
+Removed Member From Class: ClassName=M3 Member=SER2C
+Removed Member From Class: ClassName=M4 Member=SER2D

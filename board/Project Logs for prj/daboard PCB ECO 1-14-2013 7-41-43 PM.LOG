@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DET1A Pin=U3A-15
+Removed Pin From Net: NetName=DET2A Pin=U3A-16
+Removed Pin From Net: NetName=DET1B Pin=U3B-15
+Removed Pin From Net: NetName=DET2B Pin=U3B-16
+Removed Pin From Net: NetName=DET1C Pin=U3C-15
+Removed Pin From Net: NetName=DET2C Pin=U3C-16
+Removed Pin From Net: NetName=DET1D Pin=U3D-15
+Removed Pin From Net: NetName=DET2D Pin=U3D-16
+Added Pin To Net: NetName=DET1A Pin=U3A-9
+Added Pin To Net: NetName=DET2A Pin=U3A-10
+Added Pin To Net: NetName=DET1B Pin=U3B-9
+Added Pin To Net: NetName=DET2B Pin=U3B-10
+Added Pin To Net: NetName=DET1C Pin=U3C-9
+Added Pin To Net: NetName=DET2C Pin=U3C-10
+Added Pin To Net: NetName=DET1D Pin=U3D-9
+Added Pin To Net: NetName=DET2D Pin=U3D-10
