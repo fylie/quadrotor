@@ -1,0 +1,4 @@
+Added Component: Designator=BATT(PCBComponent_1)
+Added Pin To Net: NetName=VBATT Pin=BATT-1
+Added Pin To Net: NetName=GND Pin=BATT-2
+Added Member To Class: ClassName=power Member=Component BATT BS2
